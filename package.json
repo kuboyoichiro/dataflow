@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "parcel": "^1.11.0",
+    "react": "^16.8.3",
+    "react-router-dom": "^4.3.1",
+    "rxjs": "^6.4.0"
+  }
+}
