@@ -79,3 +79,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# build dist
+dist/
+
+# cache
+.cache/
