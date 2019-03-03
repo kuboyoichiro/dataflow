@@ -1,0 +1,1 @@
+export { MVCComponent } from './component';
